@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img height=200 align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
-<a href="">
+<a href="https://twitter.com/ths_o23">
   <img align="left" alt="Account xx Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thso23/">
