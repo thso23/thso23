@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 <a href="https://github.com/thso23">
   <img align="left" alt="Sameer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/soul_coder007">
+<a href="https://t.me/ths_o23">
   <img align="left" alt="Sameer's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/r.i.p_leo007/">
+<a href="https://www.instagram.com/ths_o23/">
   <img align="left" alt="Sameer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/Sameer.choudhury.9">
+<a href="https://www.facebook.com/sameer.sahu.754703">
   <img align="left" alt="Sameer's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://stackoverflow.com/users/13291785/Sameer-choudhury">
+<a href="https://stackoverflow.com/users/13291785/Sameersahu">
   <img align="left" alt="Sameer's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
