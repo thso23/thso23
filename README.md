@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/sameer.sahu.754703">
   <img align="left" alt="Sameer's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://stackoverflow.com/users/13291785/Sameersahu">
+<a href="https://stackoverflow.com/users/20631025/ths-o23">
   <img align="left" alt="Sameer's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
